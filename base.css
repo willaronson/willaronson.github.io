@@ -1,0 +1,717 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {
+	color:#cccccc;
+	font-size:12px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height:16px;
+	margin:0px;
+	padding:0px;
+}
+
+
+h1 {
+	font-size:12px;
+	line-height:14px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#cccccc;
+}
+
+
+.item_cate10 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 10px;
+	color:#cccccc;
+}
+
+#item_cate10 a:link {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 10px;
+	color:#cccccc;
+	text-decoration:none;
+}
+#item_cate10 a:visited {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 10px;
+	color:#cccccc;
+	text-decoration:none;
+}
+#item_cate10 a:hover {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: 10px;
+	color:#cccccc;
+	text-decoration:underline;
+}
+
+
+
+.index_title {
+	font-size:14px;
+	font-family:Arial, Helvetica, sans-serif;
+	line-height:16px;
+	color:#ffffff;
+	padding-left:10px;
+	font-weight:bolder;	
+}
+
+/*For Date*/
+.index_date {
+	font-size:10px;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	line-height:14px;
+	color:#898888;
+	padding-right:10px;
+	padding-bottom:3px;
+}
+
+
+/*For PADDING*/
+#p_top {
+	padding-top:15px;
+}
+
+
+#p_top2 {
+	padding-top:0px;
+}
+
+#p_top3 {
+	padding-top:10px;
+}
+
+
+#p_top4 {
+	padding-top:20px;
+}
+
+
+#p_top5 {
+	padding-top:5px;
+}
+
+
+#p_top6 {
+	padding-top:25px;
+}
+
+
+#p_bottom {
+	padding-bottom:5px;
+}
+
+
+#p_bottom2 {
+	padding-bottom:12px;
+}
+
+#p_bottom3 {
+	padding-bottom:12px;
+	padding-top:0px;
+}
+
+#p_bottom4 {
+	padding-bottom:45px;
+}
+
+#p_bottom5 {
+	padding-bottom:3px;
+}
+#p_bottom6 {
+	padding-bottom:20px;
+}
+
+#p_tb {
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+
+#p_tb2 {
+	padding-top:3px;
+	padding-bottom:3px;
+}
+
+#p_tb3 {
+	padding-top:3px;
+	padding-bottom:8px;
+}
+
+#p_lr {
+	padding-left:30px;
+	padding-right:30px;
+}
+
+#p_lrtb {
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+#p_lrt {
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:20px;
+}
+
+
+
+#p_tl {
+	padding-top:30px;
+	padding-left:30px;
+}
+
+#p_tl2 {
+	padding-top:3px;
+	padding-left:40px;
+}
+
+#p_tr {
+	padding-top:20px;
+	padding-right:30px;
+}
+
+
+#p_left {
+	padding-left:10px;
+}
+
+
+#p_left2 {
+	padding-left:5px;
+}
+
+#p_left3 {
+	padding-left:30px;
+}
+
+#p_left7 {
+	padding-left:520px;
+}
+
+#p_right {
+	padding-right:10px;
+}
+
+#p_bottom {
+	padding-bottom:10px;
+}
+
+
+#p_bottom2 {
+	padding-bottom:15px;
+}
+
+
+#p_all {
+	padding:10px;
+}
+
+
+#p_all2 {
+	padding:30px;
+}
+
+#p_all3 {
+	padding:5px;
+}
+
+
+
+/*Dotted line*/
+#base hr {
+	border-style: dotted none none none; 
+	border-top-width: 1px;
+	border-top-color:#CCCCCC;
+	height: 1px;
+}
+
+
+
+.index_itemtitle {
+	color:#cccccc;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:12px;
+	line-height:16px;
+	font-weight:bold;
+	padding-top:0px;
+	text-decoration:underline
+}
+
+
+
+.index_itemdetail {
+	color:#4f4f4f;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:10px;
+	line-height:14px;
+}
+
+
+
+/*Basic Text*/
+.basic_text {
+	font-size:12px;
+	line-height:16px;
+	color:#cccccc;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+}
+/*Basic Link Text*/
+#basic_text a:link {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:12px;
+	line-height:16px;
+	color:#cccccc;
+	text-decoration:none;
+}
+#basic_text a:visited {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:12px;
+	line-height:16px;
+	color:#cccccc;
+	text-decoration:none;
+}
+#basic_text a:hover {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:12px;
+	line-height:16px;
+	color:#FF6600;
+	text-decoration:underline;
+}
+
+
+/*Basic Link Text2*/
+#basic_text2 a:link {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:12px;
+	line-height:16px;
+	color:#FF3300;
+	text-decoration:none;
+}
+#basic_text2 a:visited {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:12px;
+	line-height:16px;
+	color:#FF3300;
+	text-decoration:none;
+}
+#basic_text2 a:hover {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:12px;
+	line-height:16px;
+	color:#EA490A;
+	text-decoration:underline;
+}
+
+/*Basic 14*/
+.basic_14text {
+	font-size:14px;
+	line-height:18px;
+	color:#000000;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	
+}
+
+/*Orange Text*/
+.orange_10px {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:10px;
+	line-height:12px;
+	color:#E13F00;
+	
+}
+
+.orange01 {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:12px;
+	line-height:16px;
+	color:#E13F00;
+	font-weight:bold;
+}
+
+.s_site_text {
+	font-size:10px;
+	line-height:12px;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	color:#cccccc;
+	padding-top:10px;
+}
+
+
+/*Paging Text*/
+.page_text {
+	font-size:11px;
+	line-height:15px;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	color:#cccccc;
+}
+
+.page_text2 {
+	font-size:12px;
+	line-height:15px;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	color:#cccccc;
+	font-weight:bold;
+}
+
+.page_text3 {
+	font-size:14px;
+	line-height:16px;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	color:#cccccc;
+	font-weight:bold;
+}
+
+/*Basic Link*/
+#page_text a:link {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:11px;
+	line-height:15px;
+	color:#cccccc;
+	text-decoration:underline;
+}
+#page_text a:visited {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:11px;
+	line-height:15px;
+	color:#cccccc;
+	text-decoration:none;
+}
+#page_text a:hover {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:11px;
+	line-height:15px;
+	color:#ff0000;
+	text-decoration:underline;
+}
+
+#page_text2 a:link {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:12px;
+	line-height:15px;
+	color:#cccccc;
+	text-decoration:none;
+}
+#page_text2 a:visited {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:12px;
+	line-height:15px;
+	color:#cccccc;
+	text-decoration:none;
+}
+#page_text2 a:hover {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:12px;
+	line-height:15px;
+	color:#ff0000;
+	text-decoration:underline;
+}
+
+#page_text3 a:link {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:14px;
+	line-height:16px;
+	color:#cccccc;
+	text-decoration:none;
+}
+#page_text3 a:visited {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:14px;
+	line-height:16px;
+	color:#cccccc;
+	text-decoration:none;
+}
+#page_text3 a:hover {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:14px;
+	line-height:16px;
+	color:#ee5d23;
+	text-decoration:underline;
+}
+
+
+.item_title14px {
+	font-size:14px;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	line-height:20px;
+	color:#9D0A22;
+	font-weight:bold;
+}
+#top a:link {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size: 10px;
+	line-height: 16px;
+	color:#ffffff;
+	text-decoration:none;
+}
+#top a:visited {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size: 10px;
+	line-height: 16px;
+	color:#ffffff;
+	text-decoration:none;
+}
+#top a:hover {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size: 10px;
+	line-height: 16px;
+	color:#ffffff;
+	text-decoration:underline;
+}
+
+
+#item_sd {
+	font-size:10px;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	color:#666666;
+	line-height:12px;
+}
+
+#item_sd hr {
+ 
+border-style: dotted none none none; 
+border-top-width: 1px; 
+border-top-color: #898379; 
+height: 1px; 
+
+}
+
+
+.orange14px_title {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:14px;
+	line-height:18px;
+	font-weight:bold;
+	color:#FF6600;
+}
+
+
+#item_p1 hr {
+ 
+border-style: dotted none none none; 
+border-top-width: 1px; 
+border-top-color: #898379; 
+height: 1px; 
+
+}
+
+
+.impo {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:12px;
+	line-height:14px;
+	font-weight:bold;
+	color:#FF0000;
+}
+
+
+#impo {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:12px;
+	line-height:14px;
+	color:#cccccc;
+	padding-bottom:5px;
+}
+#impo a:link{
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:12px;
+	line-height:14px;
+	color:#cccccc;
+}
+#impo a:visited{
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:12px;
+	line-height:14px;
+	color:#cccccc;
+}
+#impo a:hover{
+	text-decoration:underline;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:12px;
+	color:#FF0033;
+	line-height:14px;
+}
+
+
+.t_title {
+	font-size:13px;
+	padding-bottom:2px;
+	padding-top:2px;
+	color:#cccccc;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+}
+
+
+.t_read {
+	font-size:11px;
+	line-height:13px;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	padding-top:2px;
+	padding-left:4px;
+	padding-right:4px;
+}
+
+
+.imp_box {
+	width:130px;
+	background-color:#CC1135;
+	border:1px #777777 solid;
+}
+
+
+.c_title {
+	font-size:18px;
+	color:#ffffff;
+	padding-left:50px;
+	text-shadow: 2px 2px 2px #194765;
+	font-weight:bold;
+}
+
+
+.copy {
+	font-size:9px;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	color:#cccccc;
+}
+
+.copy10 {
+	font-size:10px;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	line-height:14px;
+	color:#cccccc;
+}
+
+/*For News*/
+.date10px {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:10px;
+	color:#666666;
+	line-height:14px;
+}
+
+.white {
+color:#FFFFFF;
+font-family:Arial, Helvetica, sans-serif, 굴림;
+font-size:10px;
+line-height:14px;}
+
+
+.top_title01{
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:15px;
+	font-weight:bolder;
+	line-height:18px;
+	color:#666666;
+}
+
+.top_title02{
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:14px;
+	font-weight:bold;
+	line-height:16px;
+	color:#cccccc;
+}
+
+.top_title03{
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size:16px;
+	font-weight:bolder;
+	line-height:18px;
+	color:#cccccc;
+}
+
+
+/*Archive text*/
+.white {
+	font-size:10px;
+	line-height:14px;
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	color:#FFFFFF;
+}
+
+/*For Category*/
+.item_cate10 {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size: 10px;
+	line-height: 16px;
+	color:#cccccc;
+}
+
+#top_contents a:link {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size: 12px;
+	line-height: 16px;
+	text-decoration:none;
+}
+#top_contents a:visited {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size: 12px;
+	line-height: 16px;
+	text-decoration:none;
+}
+#top_contents a:hover {
+	font-family:Arial, Helvetica, sans-serif, 굴림;
+	font-size: 12px;
+	line-height: 16px;
+	text-decoration:none;
+}
+
+.padding_lang {
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+
+
+/*Works Media Select*/
+a.best:link {FONT-SIZE: 10px; color:#cccccc;FONT-FAMILY:Arial, Helvetica, sans-serif, 굴림; font-weight:bold; text-decoration:none}
+a.best:visited {FONT-SIZE: 10px; color:#cccccc;FONT-FAMILY:Arial, Helvetica, sans-serif, 굴림; font-weight:bold; text-decoration:none}
+a.best:active {FONT-SIZE: 10px; color:#ffffff;FONT-FAMILY:Arial, Helvetica, sans-serif, 굴림; font-weight:bold; text-decoration:none}
+a.best:hover {FONT-SIZE: 10px; color:#ffffff;FONT-FAMILY:Arial, Helvetica, sans-serif, 굴림; font-weight:bold; text-decoration:none}
+
+/*Submenu*/
+td.mtDropdown{ FONT-SIZE: 12px; COLOR: #cccccc; FONT-FAMILY:Arial, Helvetica, sans-serif, 굴림;  letter-spacing:0; }
+.mtDropdownMenu {
+    LEFT: -1000px; OVERFLOW: hidden; POSITION: absolute; TOP: -1000px
+}
+.mtDropdownMenu .content {
+    POSITION: absolute
+}
+.mtDropdownMenu .items {
+    BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; Z-INDEX: 2; LEFT: 0px; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid; POSITION: relative; TOP: 0px
+}
+.top .items {
+    BORDER-TOP: medium none
+}
+.mtDropdownMenu .item {
+    BORDER-RIGHT: medium none; BORDER-TOP: medium none; FONT-SIZE: 12px; BORDER-LEFT: medium none; CURSOR: hand; COLOR: #4a4b4b; BORDER-BOTTOM: medium none; FONT-FAMILY: ±¼¸²; TEXT-DECORATION: none
+}
+.mtDropdownMenu .background {
+    Z-INDEX: 1; LEFT: 0px; POSITION: absolute; TOP: 0px; moz-opacity: .8
+}
+.mtDropdownMenu .shadowRight {
+    Z-INDEX: 3; FILTER: alpha(opacity=40); WIDTH: 2px; POSITION: absolute; TOP: 3px; moz-opacity: .4
+}
+.mtDropdownMenu .shadowBottom {
+    Z-INDEX: 1; FILTER: alpha(opacity=40); LEFT: 3px; POSITION: absolute; HEIGHT: 2px; moz-opacity: .4
+}
+.mtDropdownMenu .hover {
+    BACKGROUND: white; font-weight: bold;
+}
+
+
+/*Bullet*/
+ul {
+	list-style-image: url(../image/orange_arrow.gif);
+}
+
+
